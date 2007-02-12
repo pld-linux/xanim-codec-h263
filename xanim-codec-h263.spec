@@ -1,5 +1,5 @@
 Summary:	H.263 codec for XAnim
-Summary(pl):	Kodek H.263 dla XAnima
+Summary(pl.UTF-8):   Kodek H.263 dla XAnima
 Name:		xanim-codec-h263
 %ifarch ppc
 Version:	1.0
@@ -24,7 +24,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 H.263 codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka H.263 dla XAnima.
 
 %prep
