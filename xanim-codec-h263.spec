@@ -1,5 +1,5 @@
 Summary:	H.263 codec for XAnim
-Summary(pl.UTF-8):   Kodek H.263 dla XAnima
+Summary(pl.UTF-8):	Kodek H.263 dla XAnima
 Name:		xanim-codec-h263
 %ifarch ppc
 Version:	1.0
